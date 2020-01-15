@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 5439-D3D1
+
+ Directory of C:\Users\ksangle\Desktop\git
+
+15-01-2020  16:10    <DIR>          .
+15-01-2020  16:10    <DIR>          ..
+15-01-2020  16:10                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  152,145,195,008 bytes free
